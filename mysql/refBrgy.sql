@@ -13082,7 +13082,7 @@ INSERT INTO `refbrgy` VALUES ('13062', '175111003', 'Casague', '17', '1751', '17
 INSERT INTO `refbrgy` VALUES ('13063', '175111004', 'Dayap', '17', '1751', '175111');
 INSERT INTO `refbrgy` VALUES ('13064', '175111006', 'Lumangbayan', '17', '1751', '175111');
 INSERT INTO `refbrgy` VALUES ('13065', '175111007', 'Mulawin', '17', '1751', '175111');
-INSERT INTO `refbrgy` VALUES ('13066', '175111008', 'Pinagturilan (San Pedro)', '17', '1751', '175111');
+INSERT INTO `refbrgy` VALUES ('13066', '175111008', 'Pinagturilan', '17', '1751', '175111');
 INSERT INTO `refbrgy` VALUES ('13067', '175111009', 'Poblacion I (Barangay 1)', '17', '1751', '175111');
 INSERT INTO `refbrgy` VALUES ('13068', '175111010', 'San Vicente', '17', '1751', '175111');
 INSERT INTO `refbrgy` VALUES ('13069', '175111011', 'Poblacion II (Barangay 2)', '17', '1751', '175111');
